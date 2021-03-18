@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## My Personal Website [myPersonalWebsite]
+## My Personal Website [website]
 
 <hr />
 
@@ -19,4 +19,4 @@
 
 </div>
 
-
+[website]: https://uitwaaien6.github.io/
