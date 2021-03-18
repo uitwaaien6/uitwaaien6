@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a style="font-size: 2rem" href="uitwaaien6.github.io">My Personal Website</a>
+<a font-size="35" href="uitwaaien6.github.io">My Personal Website</a>
 
 <hr />
 
