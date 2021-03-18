@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## [My Personal Website]
+## My Personal Website [My Personal Website]
 
 <hr />
 
