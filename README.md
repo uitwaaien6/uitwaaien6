@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<a size="40" href="uitwaaien6.github.io">My Personal Website</a>
+<a size="40" href="uitwaaien6.github.io">
+  <h2>My Personal Website</h2>
+</a>
 
 <hr />
 
