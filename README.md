@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-## [My Personal Website][website]
-
-<hr />
-
 <div style="display: flex; justify-content: space-around; align-items: center">
   <a href="https://nodejs.org/en/">
     <img align="center" hspace="25" width="150" src="https://img.icons8.com/color/452/nodejs.png" alt="" />
@@ -18,5 +14,9 @@
   </a>
 
 </div>
+
+<hr />
+
+## [My Personal Website][website]
 
 [website]: https://uitwaaien6.github.io/
