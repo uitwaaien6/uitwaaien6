@@ -12,6 +12,12 @@
   <a href="https://unity.com/">
     <img align="center" hspace="25" width="150" src="https://www.nicepng.com/png/full/127-1274512_unity-transparent-white-png-unity.png" alt="" />
   </a>
+  
+  <a href="https://unity.com/">
+    <img align="center" hspace="25" width="150" src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png" alt="" />
+  </a>
+  
+  
 
 </div>
 
