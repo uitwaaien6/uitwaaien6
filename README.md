@@ -27,4 +27,4 @@
 
 ## [My Personal Website][website]
 
-[website]: https://uitwaaien6.github.io/
+[website]: https://ruzgarataozkan.github.io/
