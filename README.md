@@ -1,7 +1,5 @@
 ### Hi there I am Ruzgar Ata Ozkan 👋, here are some technologies I use.
 
-<hr />
-
 <div style="display: flex; justify-content: space-around; align-items: center">
   
   <a href="https://nodejs.org/en/">
